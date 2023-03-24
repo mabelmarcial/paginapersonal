@@ -33,7 +33,7 @@ h3 {
     position: relative;
     padding-top: 100px;
     background-color: #B4E4FF;
-    
+    height: 710px;
 }
 .primeranube {
     position: absolute;
@@ -43,6 +43,10 @@ h3 {
 .segundanube {
     position: absolute;
     left: 300px;
+}
+#montaña {
+    position: absolute;
+    left: 325px;
 }
 p {
     font-size: 1.2rem;
